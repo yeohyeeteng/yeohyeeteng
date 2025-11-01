@@ -29,9 +29,8 @@ I am __Yee Teng__, a passionate, detail-oriented data analyst with experience ac
 ## EXPERIENCE
 
 <!-- Add your details -->
-SENIOR DATA ANALYST<br>
+SENIOR DATA ANALYST (2021 to Present)<br>
 Developing strong data insights and actionable business solutions across multiple industries<br>
-2021 to Present
 
 Business Skills
 - Business and Data Analysis | Data Visualization and Dashboarding | Business Intelligence – Conducted data analysis to uncover business trends, contributed to a cost avoidance of S$4,000,000 per year
@@ -56,8 +55,7 @@ Personal Skills
 
 
 ### FOODPANDA SINGAPORE
-SENIOR DATA ANALYST (Customer Experience and Fraud Strategy)<br>
-2024 to 2025: 1 year
+SENIOR DATA ANALYST (Customer Experience and Fraud Strategy) (2024 - 2025)<br>
 - Conducted data analysis to uncover business trends, developed actionable solutions to reduce cost (cost avoidance) of S$4,000,000 per year
 - Developed & optimized SQL queries to extract a large dataset from multiple sources, reduced bytes billed by 87%
 - Built dashboards to enhance data-driven decision-making speed for executives
@@ -71,8 +69,7 @@ SENIOR DATA ANALYST (Customer Experience and Fraud Strategy)<br>
 - Pushed for fraud safety measures to prevent fraudulent and crime activities, minimize money laundering & terrorism financing risks
 - Evaluated existing frameworks & rules to ensure relevancy with false positive of <5%
 
-DATA ANALYST (Customer Experience and Fraud Strategy)<br>
-2023 to 2024: 1 year
+DATA ANALYST (Customer Experience and Fraud Strategy) (2023 - 2024)<br>
 - Oversaw wastage and refunds cost, developed strategy to reduce cost leakage
 - Managed RFM (Risk Fraud Management) escalation and processed rates, derived useful insights to improve customer experience
 - Evaluated RFM (Risk Fraud Management) false positives, designed solutions to lower negative metrics
@@ -82,8 +79,7 @@ DATA ANALYST (Customer Experience and Fraud Strategy)<br>
 - Collaborated cross-functionally on managing risk associated with foodpanda products and processes
 - Identified gaps in current systems, policies and strategies, and recommend enhancements and process improvements to mitigate emerging fraud risks through a collaborative approach with stakeholders
 
-DATA ANALYST (Vendor Performance and Fraud Strategy)<br>
-2022 to 2023: 1 year
+DATA ANALYST (Vendor Performance and Fraud Strategy) (2022 - 2023)<br>
 - Analyzed massive customer, rider, and vendor data to generate insights on user behaviors and/or risks
 - Developed and communicated insights and recommended actions to stakeholders to reduce risk by contributing towards rules, and other detection systems
 - Conducted data investigations and analysis on suspicious trends and insights independently or as follow-up for escalations reported by stakeholders or by external parties such as vendors, SPF
@@ -93,19 +89,13 @@ DATA ANALYST (Vendor Performance and Fraud Strategy)<br>
 - Collaborated cross-functionally on managing risk associated with foodpanda products and processes
 - Worked with business teams locally to translate requirements and needs to the Tech/Regional team
 
-
 ### UNICORN FINANCIAL SOLUTIONS PTE LTD
-INTRODUCER PROJECT MANAGER<br>
-2018 to 2021: 3 years<br>
-FINANCIAL CONSULTANT (Plan Writing)<br>
-2016 to 2021: 5 years
-
+INTRODUCER PROJECT MANAGER (2018 - 2021)<br>
+FINANCIAL CONSULTANT (Plan Writing) (2016 - 2021)<br>
 
 ### ERNI ASIA HOLDING PTE LTD
-MARKETING ENGINEER<br>
-2016: 1 year<br>
-MARKETING SPECIALIST<br>
-2012 to 2015: 3 years
+MARKETING ENGINEER (2016)<br>
+MARKETING SPECIALIST (2012 - 2015)<br>
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -116,7 +106,7 @@ MARKETING SPECIALIST<br>
 ## EDUCATION
 
 <!-- Add your details -->
-__Nanyang Technological University (2008 – 2012)__<br>
+### Nanyang Technological University (2008 – 2012)
 Bachelor of Engineering (Mechanical Engineering)
 - 1st Class Honours (Cumulative GPA: 4.52/5.00)
 - Dean’s List for Academic Year 2010/2011
