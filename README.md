@@ -55,7 +55,7 @@ Personal Skills
 - Leadership
 
 
-__FOODPANDA SINGAPORE__<br>
+### FOODPANDA SINGAPORE
 SENIOR DATA ANALYST (Customer Experience and Fraud Strategy)<br>
 2024 to 2025: 1 year
 - Conducted data analysis to uncover business trends, developed actionable solutions to reduce cost (cost avoidance) of S$4,000,000 per year
@@ -94,14 +94,14 @@ DATA ANALYST (Vendor Performance and Fraud Strategy)<br>
 - Worked with business teams locally to translate requirements and needs to the Tech/Regional team
 
 
-__UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
+### UNICORN FINANCIAL SOLUTIONS PTE LTD
 INTRODUCER PROJECT MANAGER<br>
 2018 to 2021: 3 years<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
 2016 to 2021: 5 years
 
 
-__ERNI ASIA HOLDING PTE LTD__<br>
+### ERNI ASIA HOLDING PTE LTD
 MARKETING ENGINEER<br>
 2016: 1 year<br>
 MARKETING SPECIALIST<br>
