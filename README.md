@@ -15,7 +15,7 @@
 ![alt text](https://avatars.githubusercontent.com/u/93510308?v=4)
 
 <!-- Add your details -->
-I am __Yee Teng__, I specialized in creative & structured problem solving, business & data analysis, visualization, strategic planning, project management, Microsoft Excel, SQL, Python programming. I am also experienced in marketing, design, training.
+I am __Yee Teng__, a passionate, detail-oriented data analyst with experience across industries including aviation, technology, finance, and engineering. Skilled in SQL, Python, advanced Excel, and dashboarding, I translate complex data into actionable insights that drive efficiency and performance across departments such as fraud, customer experience, operations, marketing, and partnerships. My work has delivered significant results, including S$4 million in annual cost savings, an 87% reduction in data costs, and a 70% decrease in customer escalation rates through automation. Fluent in multiple languages, I communicate insights effectively across diverse teams. Committed to continuous learning and collaboration, I strive to deliver impactful, data-driven solutions that create measurable business value.
 
 <!-- Add link to the sections -->
 [Experience](#experience) | [Education](#education) | [Featured](#featured)
