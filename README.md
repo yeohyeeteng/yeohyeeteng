@@ -30,7 +30,7 @@ I am __Yee Teng__, a passionate, detail-oriented data analyst with experience ac
 
 <!-- Add your details -->
 SENIOR DATA ANALYST<br>
-Developing strong data insights and actionable business solutions across multiple industries
+Developing strong data insights and actionable business solutions across multiple industries<br>
 2021 to Present
 
 Business Skills
@@ -96,14 +96,14 @@ DATA ANALYST (Vendor Performance and Fraud Strategy)<br>
 
 __UNICORN FINANCIAL SOLUTIONS PTE LTD__<br>
 INTRODUCER PROJECT MANAGER<br>
-2018 to 2021: 3 years
+2018 to 2021: 3 years<br>
 FINANCIAL CONSULTANT (Plan Writing)<br>
 2016 to 2021: 5 years
 
 
 __ERNI ASIA HOLDING PTE LTD__<br>
 MARKETING ENGINEER<br>
-2016: 1 year
+2016: 1 year<br>
 MARKETING SPECIALIST<br>
 2012 to 2015: 3 years
 
