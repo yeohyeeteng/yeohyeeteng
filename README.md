@@ -131,22 +131,13 @@ Bachelor of Engineering (Mechanical Engineering)
 
 <!-- Add your details -->
 ### Professional Certifications & Courses Attended
-[RISE by DigitalBCG Academy, Business and Data Analytics](https://rise.bcg.com/business-data-analytics/) (anticipated completion Jan 2022)<br>
+[RISE by DigitalBCG Academy, Business and Data Analytics](https://rise.bcg.com/business-data-analytics/) (2022)<br>
 RISE by DigitalBCG Academy
-
-[Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst) (2021)<br>
-LinkedIn Learning Path
-
-[Become a Data Scientist](https://www.linkedin.com/learning/paths/become-a-data-scientist) (2021)<br>
-LinkedIn Learning Path
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning) (2020)<br>
 Coursera (Offered by Stanford University)
 
-### Business and Data Analytics Projects
-[Group Projects and Hackathon](https://drive.google.com/drive/folders/1VP1xmoH-K28Ajsi_4yUFUG28J5NW04bw?usp=sharing) (RISE by DigitalBCG Academy, Business and Data Analytics)
-
-### Professional Article Writing
-[Financial Article](https://www.unicorn.sg/library/is-your-savings-account-really-a-savings-account)
+[Python for Everybody Specialization](https://www.coursera.org/specializations/python) (2023-2024)<br>
+Coursera (Offered by University of Michigan)
 
 <!-- FEATURED Section Ends -->
